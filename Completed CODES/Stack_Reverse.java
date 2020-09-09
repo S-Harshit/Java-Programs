@@ -37,9 +37,7 @@ for (int i=0 ; i< arr.length ;i++) {
 				 new_last = splitted[1];
 		}
 		char c = new_first.charAt(0);
-		System.out.print(c+" THIS IS S CAFG\n");
-		System.out.print(new_first + "<----------------------\n");
-		System.out.print(new_last + "<---------------\n");
+		
 
 //////////////////////////////////////////////
 
